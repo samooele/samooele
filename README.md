@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @samooele
+- 👀 I’m interested in Data Science, Cyber Security & IoT
+- 🌱 I’m currently learning Python (and frameworks for DS)
+- I'm very curious and interested in pretty much everything about technology. 
